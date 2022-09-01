@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Durgesh Kumar , Passionate Data Analyst</h1>
+<h1 align="center">Hi 👋, I'm Durgesh, Passionate Data Analyst</h1>
 <img algn="right" alt="coding durgesh kumar" width="1280"src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz12bIZwwo3R8m3nDFSD-FDB0Z6JbYh6zBdJpR8s5ijFqdSmf00eawAyeVsZud0hWOaUghhzsL1EymKt1VwnNvLR7_q3wrUK70a2oCuTcqI-NfCWetYrCAvjQ_uvs5RLLu-nVlNuZMF2CJITTWXCMeDtTe5erm0lbcvYfs9-dSLsy8LKqL0Uy6hCXJ/s16000/Durgesh%20Kumar%20(1).png"
 <img algn="right" alt="coding durgesh kumar" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
