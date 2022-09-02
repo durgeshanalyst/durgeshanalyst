@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh, Passionate Data Analyst</h1>
 <img algn="right" alt="coding durgesh kumar" width="1280"src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz12bIZwwo3R8m3nDFSD-FDB0Z6JbYh6zBdJpR8s5ijFqdSmf00eawAyeVsZud0hWOaUghhzsL1EymKt1VwnNvLR7_q3wrUK70a2oCuTcqI-NfCWetYrCAvjQ_uvs5RLLu-nVlNuZMF2CJITTWXCMeDtTe5erm0lbcvYfs9-dSLsy8LKqL0Uy6hCXJ/s16000/Durgesh%20Kumar%20(1).png"
-<img algn="right" alt="coding durgesh kumar" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshanalyst" /> </p>
 
@@ -20,13 +20,8 @@
 
 - 📫 How to reach me **durgeshkumar7b@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+<img algn="center" alt="coding durgesh kumar" width="400" src="https://trendologics.com/wp-content/uploads/2020/05/oie_2215410BAhoDKZP.gif">
 
-- ⚡ Fun fact **Watch me on YouTube**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
