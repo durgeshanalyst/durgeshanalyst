@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Comig soon](Comig soon)
 
-- 📝 I regularly write articles on [lbeanalyst.blogspot.com](lbeanalyst.blogspot.com)
+- 📝 I regularly write articles on https://lbeanalyst.blogspot.com/
 
 - 💬 Ask me about **Excel,Tableau,Sql,Python**
 
