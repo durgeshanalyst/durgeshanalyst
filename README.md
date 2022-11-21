@@ -29,7 +29,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/durgesh.kumar" target="_blank" rel="noreferrer"> <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" alt="tableau" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/durgesh.kumar" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/108/891/png-clipart-microsoft-excel-computer-icons-export-microsoft-angle-logo-thumbnail.png" alt="tableau" width="40" height="40"/> </a> </p></p> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://public.tableau.com/app/profile/durgesh.kumar" target="_blank" rel="noreferrer"> <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" alt="tableau" width="40" height="40"/> </a>
+  <a href="https://public.tableau.com/app/profile/durgesh.kumar" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/108/891/png-clipart-microsoft-excel-computer-icons-export-microsoft-angle-logo-thumbnail.png" alt="tableau" width="40" height="40"/> </a> </p></p> </p>
+<p align= "center">
+  <img src="https://img.shields.io/badge/SQL-MSSQL-red"/>
+  <img src="https://img.shields.io/badge/Python-python-blue"/>
+  <img src="https://img.shields.io/badge/Excel-excel-green"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-blueviolet"/>
+  <img src="https://img.shields.io/badge/Machine Learning- Pandas,Numpy,Seaborn,Sklearn-brightgreen"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshanalyst&show_icons=true&locale=en&layout=compact" alt="durgeshanalyst" /></p>
 
