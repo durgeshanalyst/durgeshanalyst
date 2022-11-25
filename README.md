@@ -44,8 +44,15 @@
   <img src="https://img.shields.io/badge/Machine Learning- Pandas,Numpy,Seaborn,Sklearn-brightgreen"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshanalyst&show_icons=true&locale=en&layout=compact" alt="durgeshanalyst" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshanalyst&show_icons=true&locale=en" alt="durgeshanalyst" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshanalyst&" alt="durgeshanalyst" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshanalyst&show_icons=true&locale=en"  alt="durgeshanalyst"
+  </p>
+  <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshanalyst&" alt="durgeshanalyst" 
+  </p>
+  <p> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshanalyst&show_icons=true&locale=en&layout=compact" height=90,width=120      alt="durgeshanalyst" 
+  </p>
+  <div align="center">
+<a href="https://github.com/durgeshanalyst/github-readme-activity-graph"><img alt="dyrgeshanalyst's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=durgeshanalyst&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</div>
