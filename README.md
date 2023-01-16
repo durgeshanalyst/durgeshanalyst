@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [Comig soon](Comig soon)
+- 👨‍💻 All of my projects are available in repositories.
 
 - 📝 I regularly write articles on https://lbeanalyst.blogspot.com/
 
@@ -54,5 +54,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshanalyst&show_icons=true&locale=en&layout=compact" height=90,width=120      alt="durgeshanalyst" 
   </p>
   <div align="center">
-<a href="https://github.com/durgeshanalyst/github-readme-activity-graph"><img alt="dyrgeshanalyst's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=durgeshanalyst&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</div>
