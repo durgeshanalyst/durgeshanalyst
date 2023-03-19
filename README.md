@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available in repositories.
 
-- 📝 I regularly write articles on https://lbeanalyst.blogspot.com/
+- 📝 I regularly write articles on https://letsbeanalyst.com/
 
 - 💬 Ask me about **Excel,Tableau,Sql,Python**
 
