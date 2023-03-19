@@ -14,8 +14,7 @@
 
 - 👨‍💻 All of my projects are available in repositories.
 
-- 📝 I regularly write articles on https://letsbeanalyst.com
-
+- 📝 I regularly write articles on https://www.letsbeanalyst.com/
 - 💬 Ask me about **Excel,Tableau,Sql,Python**
 
 - 📫 How to reach me **durgeshkumar7b@gmail.com**
