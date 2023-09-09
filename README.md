@@ -1,55 +1,95 @@
-<h1 align="center">Hi 👋, I'm Durgesh, Passionate Data Analyst</h1>
-<img algn="right" alt="coding durgesh kumar" width="1280"src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz12bIZwwo3R8m3nDFSD-FDB0Z6JbYh6zBdJpR8s5ijFqdSmf00eawAyeVsZud0hWOaUghhzsL1EymKt1VwnNvLR7_q3wrUK70a2oCuTcqI-NfCWetYrCAvjQ_uvs5RLLu-nVlNuZMF2CJITTWXCMeDtTe5erm0lbcvYfs9-dSLsy8LKqL0Uy6hCXJ/s16000/Durgesh%20Kumar%20(1).png"
+<!-- MASTER PIC -->
+
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="175px"/></a>
+
+<!-- INTRODUCTION -->
+    
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Durgesh </h1>
+<h3 align="center">I'm an aspiring Data Analyst from India.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshanalyst" /> </p>
+<!-- INSERTING GIF ON RIGHT HAND SIDE AFTER ABOUT  -->
 
-- 🔭 I’m currently working on **Data Analytic skills**
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
+<br>
 
-- 🌱 I’m currently learning **[Machine Learning]**
+<!-- ABOUT ME -->
 
-- 👯 I’m looking to collaborate on **[SQL,Python,EXCEL Project].**
+<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
-- 🤝 I’m looking for help with **Python**
+- 🔭 I’m currently working on **Analytical Skills**
 
-- 👨‍💻 All of my projects are available in repositories.
+- 🌱 I’m currently learning **Data Science and Analytics.**
 
-- 📝 I regularly write articles on https://www.letsbeanalyst.com/
-- 💬 Ask me about **Excel,Tableau,Sql,Python**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/durgeshanalyst?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="durgeshanalyst" height="30" width="40" style="max-width: 100%;"></a>
 
-- 📫 How to reach me **durgeshkumar7b@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/durgeshanalyst)**
 
-<img algn="center" alt="coding durgesh kumar" width="400" src="https://trendologics.com/wp-content/uploads/2020/05/oie_2215410BAhoDKZP.gif">
+<br>
+
+<!--Code For Language and Tool-->
+<br>
+<br>
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" data-animated-image="" </a> <strong>Languages &amp; Tools:</strong></h2>
+<br>
+<!--Code For Inserting Icon Of Languages and Tools-->
+
+<p align="center">  
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
+    <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+
+</p>
+<br>
+<!-- STREAK CODE -->
+
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshanalyst&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="durgeshanalyst" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- GITHUB STAT CODE -->
+
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
+
+<!-- 1st DROP DOWN -->
+
+  <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
+ <br>
+ <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshanalyst&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="durgeshanalyst" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshanalyst&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="durgeshanalyst" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<!-- 2nd DROP DOWN -->
+
+ <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
+<br>
+  <p align="center" dir="auto">
+    <img src="https://github-profile-trophy.vercel.app/?username=durgeshanalyst&theme=onedark">
+
+<!-- 3rd DROP DOWN -->
+
+  <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
+    <br>
+    <a href="https://github.com/durgeshanalyst/github-readme-activity-graph"><img alt="Durgesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=durgeshanalyst&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<!--CONNECT WITH ME CODE  -->
+
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
+
+<!-- CONNECT WITH ME ICONS CODE -->
 <p align="left">
-<a href="https://linkedin.com/in/durgeshanalyst" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="durgeshanalyst" height="60" width="100" /></a>
+<a href = "https://www.linkedin.com/in/Durgeshsaeedkhan/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "https://github.com/durgeshanalyst" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
+<a href="mailto:Durgeshkumar7b@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+<a href="https://www.hackerrank.com/durgeshkumar7b" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://public.tableau.com/app/profile/durgesh.kumar" target="_blank" rel="noreferrer"> <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" alt="tableau" width="40" height="40"/> </a>
-  <a href="https://public.tableau.com/app/profile/durgesh.kumar" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/108/891/png-clipart-microsoft-excel-computer-icons-export-microsoft-angle-logo-thumbnail.png" alt="tableau" width="40" height="40"/> </a> </p></p> </p>
-<p align= "center">
-  <img src="https://img.shields.io/badge/SQL-MSSQL-red"/>
-  <img src="https://img.shields.io/badge/Python-python-blue"/>
-  <img src="https://img.shields.io/badge/Excel-excel-green"/>
-  <img src="https://img.shields.io/badge/Tableau-Visualization-blueviolet"/>
-  <img src="https://img.shields.io/badge/Machine Learning- Pandas,Numpy,Seaborn,Sklearn-brightgreen"/>
-</p>
+<h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshanalyst&show_icons=true&locale=en"  alt="durgeshanalyst"
-  </p>
-  <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshanalyst&" alt="durgeshanalyst" 
-  </p>
-  <p> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshanalyst&show_icons=true&locale=en&layout=compact" height=90,width=120      alt="durgeshanalyst" 
-  </p>
-  <div align="center">
+![snake gif](https://github.com/durgeshanalyst/durgeshanalyst/blob/output/github-contribution-grid-snake.gif)
