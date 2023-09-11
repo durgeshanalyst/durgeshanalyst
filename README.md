@@ -36,9 +36,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=durgeshanalyst&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=durgeshanalyst&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshanalyst&theme=flag-india&hide_border=True&include_all_commits=true&count_private=false)
 ![](https://github-contributor-stats.vercel.app/api?username=durgeshanalyst&limit=5&theme=onestar&hide_border=True&combine_all_yearly_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=durgeshanalyst&theme=flag-india&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshanalyst&theme=flag-india&hide_border=True&include_all_commits=true&count_private=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=durgeshanalyst&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
