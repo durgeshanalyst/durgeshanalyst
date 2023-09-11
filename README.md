@@ -9,6 +9,7 @@
 
 
 <!-- INSERTING GIF ON RIGHT HAND SIDE AFTER ABOUT  -->
+[![](https://visitcount.itsvg.in/api?id=durgeshanalyst&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
 <br>
@@ -27,69 +28,25 @@
 
 <br>
 
-<!--Code For Language and Tool-->
-<br>
-<br>
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" data-animated-image="" </a> <strong>Languages &amp; Tools:</strong></h2>
-<br>
-<!--Code For Inserting Icon Of Languages and Tools-->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/durgeshanalyst) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durgeshanalyst) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@durgeshanalyst) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DurgeshBR) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Be.Analyst) 
 
-<p align="center">  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
-    <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![Excel](https://img.shields.io/badge/Excel-%23197EF2.svg?style=flat&logo=microsoft-excel&logoColor=white) ![Word](https://img.shields.io/badge/Word-%232B5797.svg?style=flat&logo=microsoft-word&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
 
-</p>
-<br>
-<!-- STREAK CODE -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=durgeshanalyst&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=durgeshanalyst&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshanalyst&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshanalyst&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="durgeshanalyst" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=durgeshanalyst&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=durgeshanalyst&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
-<!-- GITHUB STAT CODE -->
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/durgeshanalyst) 
 
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
-
-<!-- 1st DROP DOWN -->
-
-  <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
- <br>
- <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshanalyst&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="durgeshanalyst" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshanalyst&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="durgeshanalyst" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<!-- 2nd DROP DOWN -->
-
- <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
-<br>
-  <p align="center" dir="auto">
-    <img src="https://github-profile-trophy.vercel.app/?username=durgeshanalyst&theme=onedark">
-
-<!-- 3rd DROP DOWN -->
-
-  <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
-    <br>
-    <a href="https://github.com/durgeshanalyst/github-readme-activity-graph"><img alt="Durgesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=durgeshanalyst&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<!--CONNECT WITH ME CODE  -->
-
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
-
-<!-- CONNECT WITH ME ICONS CODE -->
-<p align="left">
-<a href = "https://www.linkedin.com/in/Durgeshsaeedkhan/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://github.com/durgeshanalyst" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
-<a href="mailto:Durgeshkumar7b@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<a href="https://www.hackerrank.com/durgeshkumar7b" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
-</p>
-
-<h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
-
-![snake gif](https://github.com/durgeshanalyst/durgeshanalyst/blob/output/github-contribution-grid-snake.gif)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
