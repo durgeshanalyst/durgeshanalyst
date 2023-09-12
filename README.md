@@ -43,8 +43,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=durgeshanalyst&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Hire me
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/durgeshanalyst) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffdd00?style=for-the-badge&logo=portfolio&logoColor=black)](https://durgeshanalyst.github.io)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
