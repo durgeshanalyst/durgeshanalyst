@@ -18,9 +18,9 @@
 
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
-- 🔭 I’m currently working on **Analytical Skills**
+- 🔭 I worked for microsoft @ wunderman Thompson in Discipline **Business, Marketing & Website Performance** as Data Analyst.
 
-- 🌱 I’m currently learning **Data Science and Analytics.**
+- 🌱 I’m eager to contribute in  **Data Science and Analytics.**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/durgeshanalyst?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="durgeshanalyst" height="30" width="40" style="max-width: 100%;"></a>
 
